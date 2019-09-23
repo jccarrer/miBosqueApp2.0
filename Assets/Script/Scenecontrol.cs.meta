@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98c9b4061ea2eb74681d188286a2b6d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carta: {instanceID: 0}
+  - tema1: {instanceID: 0}
+  - fruta: {fileID: 8300000, guid: ae2bf764e37e5a74e81eb8c36b9a09f5, type: 3}
+  - originalCard: {instanceID: 0}
+  - scoreLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
