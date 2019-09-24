@@ -3849,7 +3849,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c60c0eb1a13795e45847512bfb3f7645, type: 3}
+  m_audioClip: {fileID: 8300000, guid: df9b25a2b4a5f7240b5726ebecaec0cf, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -4730,7 +4730,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1766153773}
-        m_MethodName: volverMenu
+        m_MethodName: medallaRompecabeza
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

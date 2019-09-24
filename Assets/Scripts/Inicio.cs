@@ -19,6 +19,28 @@ public class Inicio : MonoBehaviour {
 		
 	}
 
+    public void inicioDelJuego()
+    {
+        SceneManager.LoadScene("inicioAnimadov1");
+    }
+
+    public void medallaSiluetas()
+    {
+        SceneManager.LoadScene("medallaSiluetas");
+    }
+    
+        
+    public void medallaRompecabeza()
+    {
+        SceneManager.LoadScene("medallaRompecabeza");
+    }
+
+    public void medallaPares()
+    {
+        SceneManager.LoadScene("medallaPares");
+    }
+
+
     public void cambiar()
     {
         //Debug.Log("ddddd");

@@ -294,9 +294,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 885a9204c64475a4fb3129d417ae00cf, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 8f3df070b37a8f4489669f7252b3ca2e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.4
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1817,7 +1817,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 591845950}
-        m_MethodName: volverMenu
+        m_MethodName: medallaSiluetas
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
