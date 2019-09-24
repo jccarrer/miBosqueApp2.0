@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{29D9BDEE-D302-8225-0189-49CDF4096090}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CambioEscena.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CambioEscena.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="miBosqueApp2.0" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d4126d06-179a-48fa-9521-f9aad3b9e728" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
