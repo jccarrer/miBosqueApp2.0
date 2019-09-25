@@ -9,7 +9,11 @@ public class iniciar : MonoBehaviour {
     {
         SceneManager.LoadScene("menuJuegos");
 	}
-
+    
+	public void salir()
+    {
+        Application.Quit();
+    }
     public void Juego1()
     {
         //SceneManager.LoadScene("menuJuego1"); juegoSiluetas
@@ -49,6 +53,9 @@ public class iniciar : MonoBehaviour {
     {
         SceneManager.LoadScene("SegundoNivel");
     }
-
+    public void PuzzleLvl3()
+    {
+        SceneManager.LoadScene("TercerNivelPuzzle");
+    }
 
 }

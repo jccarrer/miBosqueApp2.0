@@ -51,6 +51,9 @@ EditorBuildSettings:
     path: Assets/videoPuzzle.unity
     guid: b629dd1a44e8bd542ad40284e8292947
   - enabled: 1
+    path: Assets/videoPares.unity
+    guid: 02fdaec3229fdd243b60b0022cb88988
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 5ffd7d4f5cd48354198c025b08cfe411
   - enabled: 1
@@ -72,9 +75,6 @@ EditorBuildSettings:
     path: Assets/Scenes/TercerNivel.unity
     guid: f63998064fbee5447927356e6771cedb
   - enabled: 1
-    path: Assets/videoPares.unity
-    guid: 02fdaec3229fdd243b60b0022cb88988
-  - enabled: 1
     path: Assets/medallaSiluetas.unity
     guid: 9cb2507df286c394c9760bc0582513ab
   - enabled: 1
@@ -83,4 +83,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/medallaPares.unity
     guid: 23cd75390dfd27f49b627a081bee5a46
+  - enabled: 1
+    path: Assets/Scenes/TercerNivelPuzzle.unity
+    guid: 19dfbcb5a04454245b6a7f3d763e4766
+  - enabled: 1
+    path: Assets/Scenes/ganarTercerNivel.unity
+    guid: 0fff8288413250244be60a2a6970cc6a
   m_configObjects: {}
