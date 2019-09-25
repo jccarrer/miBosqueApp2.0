@@ -88,6 +88,11 @@ public class Inicio : MonoBehaviour {
     {
         SceneManager.LoadScene("SegundoNivelPuzzle");
     }
+    public void PuzzleNivel3()
+    {
+        SceneManager.LoadScene("TercerNivelPuzzle");
+    }
+
 
     public void submenuPares()
     {

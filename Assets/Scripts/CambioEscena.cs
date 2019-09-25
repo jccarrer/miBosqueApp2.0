@@ -71,7 +71,13 @@ public class CambioEscena : MonoBehaviour
     {
         SceneManager.LoadScene("SegundoNivel");
     }
- 
+
+    public void CargarTercerNivel()
+    {
+        SceneManager.LoadScene("TercerNivelPuzzle");
+    }
+
+
 }
 
 
