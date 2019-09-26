@@ -82,15 +82,42 @@ public class Inicio : MonoBehaviour {
     public void PuzzleNivel1()
     {
         SceneManager.LoadScene("JuegoRompecabeza");
+        Pieza.locked = false;
+        Pieza2.locked = false;
+        Pieza3.locked = false;
+        Pieza4.locked = false;
+        Pieza5.locked = false;
+        Pieza6.locked = false;
+     
     }
 
     public void PuzzleNivel2()
     {
         SceneManager.LoadScene("SegundoNivelPuzzle");
+        Pieza.locked = false;
+        Pieza2.locked = false;
+        Pieza3.locked = false;
+        Pieza4.locked = false;
+        Pieza5.locked = false;
+        Pieza6.locked = false;
+        Pieza7.locked = false;
+        Pieza8.locked = false;
     }
     public void PuzzleNivel3()
     {
         SceneManager.LoadScene("TercerNivelPuzzle");
+        Pieza.locked = false;
+        Pieza2.locked = false;
+        Pieza3.locked = false;
+        Pieza4.locked = false;
+        Pieza5.locked = false;
+        Pieza6.locked = false;
+        Pieza7.locked = false;
+        Pieza8.locked = false;
+        Pieza9.locked = false;
+        Pieza10.locked = false;
+        Pieza11.locked = false;
+        Pieza12.locked = false;
     }
 
 

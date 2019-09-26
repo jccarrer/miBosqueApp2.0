@@ -12,6 +12,9 @@ ScriptsOnlyBuild:
     - NuevoDrop
     - Parametros
     - Pieza
+    - Pieza10
+    - Pieza11
+    - Pieza12
     - Pieza2
     - Pieza3
     - Pieza4
@@ -19,6 +22,7 @@ ScriptsOnlyBuild:
     - Pieza6
     - Pieza7
     - Pieza8
+    - Pieza9
     - SceneControl3
     - Scenecontrol
     - Scenecontrol2
@@ -45,10 +49,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -187,7 +189,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10096}
     - Class: 114
-      Script: {instanceID: 192902}
+      Script: {instanceID: 22648}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -317,7 +319,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10096}
     - Class: 114
-      Script: {instanceID: 192902}
+      Script: {instanceID: 22648}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -686,6 +688,8 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 9358}
+    - Class: 114
       Script: {instanceID: 9404}
     - Class: 114
       Script: {instanceID: 9406}
@@ -708,6 +712,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9710}
     - Class: 114
+      Script: {instanceID: 9872}
+    - Class: 114
       Script: {instanceID: 9970}
     - Class: 114
       Script: {instanceID: 10058}
@@ -716,19 +722,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10132}
     - Class: 114
+      Script: {instanceID: 10228}
+    - Class: 114
+      Script: {instanceID: 10308}
+    - Class: 114
       Script: {instanceID: 10328}
     - Class: 114
       Script: {instanceID: 10624}
     - Class: 114
       Script: {instanceID: 10960}
-    - Class: 114
-      Script: {instanceID: 21242}
-    - Class: 114
-      Script: {instanceID: 21244}
-    - Class: 114
-      Script: {instanceID: 21246}
-    - Class: 114
-      Script: {instanceID: 21248}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -783,7 +785,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10096}
     - Class: 114
-      Script: {instanceID: 192902}
+      Script: {instanceID: 22648}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1537,7 +1539,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10244}
     - Class: 114
-      Script: {instanceID: 22334}
+      Script: {instanceID: 18316}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -1606,7 +1608,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10244}
     - Class: 114
-      Script: {instanceID: 22334}
+      Script: {instanceID: 18316}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -1675,7 +1677,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10244}
     - Class: 114
-      Script: {instanceID: 22334}
+      Script: {instanceID: 18316}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -1744,7 +1746,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10244}
     - Class: 114
-      Script: {instanceID: 22334}
+      Script: {instanceID: 18316}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -3171,4 +3173,4 @@ ScriptsOnlyBuild:
   - Assets/medallaPares.unity
   - Assets/Scenes/TercerNivelPuzzle.unity
   - Assets/Scenes/ganarTercerNivel.unity
-  playerPath: C:/Users/jorgitop/Desktop/builds/MiBosque.apk
+  playerPath: C:/Users/jorgitop/Desktop/builds/MiBosque2.apk
